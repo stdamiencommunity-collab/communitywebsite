@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "A"
+  name             : "Information"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to our Catholic Student residential community."
-  location         : "American College, Leuven, Belgium"
+  bio              : "A Catholic Student Residential Community"
+  location         : "American College, Leuven"
   email            : "st.damiencommunity@gmail.com"
   links:
     - label: "Email"
